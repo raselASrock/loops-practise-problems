@@ -19,3 +19,15 @@ var fiveAvg = totalMark / totalSubject;
 console.log(fiveAvg.toFixed(2));
 
 /********Practise Problem Solution-03 *******/
+
+var text1 ="I am going to be"
+var text2 ="an awesome web developer."
+var sentence = text1.concat(text2);
+console.log(sentence);
+
+/********Practise Problem Solution-04 *******/
+
+var number1 = 119;
+var number2 = 5;
+var remainder= number1 % number2 ;
+console.log(remainder);
